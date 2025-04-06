@@ -28,7 +28,7 @@ class OpenWeatherMapConfig:
     # API endpoints and authentication key
     OPEN_WEATHER_MAP_WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
     OPEN_WEATHER_MAP_GEO_URL = "http://api.openweathermap.org/geo/1.0/"
-    API_KEY = "58b15bdc942e202c1e6d751bea67c884"
+    API_KEY = "<REPLACE_YOUR_API_KEY>"
     TIMEOUT = 30
 
 
